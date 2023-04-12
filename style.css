@@ -5,6 +5,7 @@
 
 body {
     background-image: linear-gradient(to bottom,rgb(234, 187, 223), rgb(179, 162, 223),rgb(91, 126, 178) );
+    background-attachment: fixed;
     background-color: rgb(190, 133, 237);
     font-family: sans-serif;
 }
